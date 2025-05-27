@@ -47,5 +47,3 @@ Contains columns like:
 
 ---
 
-## 📁 Folder Structure
-
